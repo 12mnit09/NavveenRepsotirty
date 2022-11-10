@@ -8,6 +8,7 @@ public class HomePage {
 		String un = "Raghav";
 		String pwd = "Raghul";
 		System.out.println("Logged in");
+		System.out.println("Logged out");
 	}
 
 }
