@@ -6,4 +6,8 @@ public class MyTest {
 
 	String designation = "Professional Scrum Master";
 
+	String city = "Chennai";
+
+	String country = "India";
+
 }
