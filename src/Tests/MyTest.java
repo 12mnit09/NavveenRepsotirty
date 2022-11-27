@@ -10,4 +10,7 @@ public class MyTest {
 
 	String country = "India";
 
-}
+	String companyName = "HappiestMinds Technologies";
+
+	String projectName = "Savvas Technologies";
+} 
